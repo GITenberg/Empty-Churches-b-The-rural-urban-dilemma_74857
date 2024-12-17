@@ -1,0 +1,26 @@
+_repo: Empty-Churches-b-The-rural-urban-dilemma_74857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galpin, Charles Josiah
+    gutenberg_agent_id: '57689'
+    url: http://www.gutenberg.org/2009/agents/57689
+description: ''
+gutenberg_issued: '2024-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74857'
+language: en
+pgterms:marc905: 20240714081427gilpin
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York, NY :$bThe Century Co., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Empty Churches : $b The rural-urban dilemma'
+url: http://www.gutenberg.org/ebooks/74857
