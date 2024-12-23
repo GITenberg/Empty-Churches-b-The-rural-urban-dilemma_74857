@@ -1,11 +1,16 @@
 _repo: Empty-Churches-b-The-rural-urban-dilemma_74857
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74857-h/images/cover.jpg
 creator:
   author:
     agent_name: Galpin, Charles Josiah
     gutenberg_agent_id: '57689'
     url: http://www.gutenberg.org/2009/agents/57689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74857#Empty-Churches-b-The-rural-urban-dilemma
 gutenberg_issued: '2024-12-08'
 gutenberg_type: Text
 identifiers:
